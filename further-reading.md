@@ -311,28 +311,7 @@ universal current facts.
 
 ------------------------------------------------------------------------
 
-## 12. Suggested future research topics
-
-The session can be extended into research projects such as:
-
--   AI-assisted assessment redesign in Indian higher education
--   AI literacy among government-school teachers
--   Institutional AI governance maturity models
--   Privacy risks of public LLM use in education
--   Effectiveness of AI-use disclosure policies
--   AI detector fairness across Indian languages
--   AI-generated citation accuracy in academic research
--   Generative AI and student learning outcomes
--   AI governance frameworks for state education departments
--   Vendor-risk assessment for AI-enabled educational platforms
--   Deepfake awareness among school students and teachers
--   Human oversight models for AI-assisted educational decisions
--   AI readiness gaps across rural and urban institutions
--   Responsible AI procurement frameworks for education departments
-
-------------------------------------------------------------------------
-
-## 13. Final principle
+## 12. Final principle
 
 The objective of AI governance in education should be neither
 unrestricted adoption nor blanket prohibition.
