@@ -12,6 +12,7 @@ Challenges, Ethics, Integrity and Governance Issues\
 **Audience:** Group A and Group B officers, education administrators,
 school and college principals, faculty members and other education
 stakeholders\
+**Participants:** More than 80\
 **Format:** 75-minute presentation with demonstrations, case analysis
 and audience discussion\
 **Presenter:** Shuvendu Bose Diganta
